@@ -15,7 +15,7 @@ Este projeto conta com um design limpo, moderno e animações suaves para melhor
 
 ## 🌐 Visualizar Online
 
-[🔗 Ver Projeto Online](https://seulink.com)  
+[🔗 Ver Projeto Online](https://samirasfonseca.github.io/Landing-page-Gastronomia/)  
 
 
 ---
